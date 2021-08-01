@@ -1,8 +1,8 @@
 class VenvWrapper < Formula
   desc "Simple python virtual environment management"
   homepage "https://github.com/marier-nico/venv-wrapper"
-  url "https://github.com/marier-nico/venv-wrapper/archive/refs/tags/v2.0.0.tar.gz"
-  sha256 "3b2af36b6ff9ee878bbade167f2812ccbfaadac6352c0e832450ae66ba79156d"
+  url "https://github.com/marier-nico/venv-wrapper/archive/refs/tags/v2.0.2.tar.gz"
+  sha256 "d311792a85b40cd30c25c5150cf1e929b6c71cc4be6c16ab8e7fd1c51d55de01"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on "python"
